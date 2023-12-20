@@ -47,3 +47,16 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+
+#Ignore file types
+*.csv
+*.nc
+*.RData
+*.shx
+*.cpg
+*.dbf
+*.fix
+*.prj
+*.shp
+*.jpeg
+*.png
